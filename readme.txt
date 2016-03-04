@@ -9,4 +9,4 @@ Creating a new branch is quick AND simple.
 
 switch to dev!!!
 
-分支功能还只完成了一半
+完成dev整个功能
