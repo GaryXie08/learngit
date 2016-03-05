@@ -16,3 +16,5 @@ switch to dev!!!
 完成dev整个功能
 
 Edit in Git Hub!
+
+Test resolve conflict between local and git hub!
