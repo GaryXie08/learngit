@@ -17,4 +17,5 @@ switch to dev!!!
 
 Edit in Git Hub!
 
-Test resolve conflict between local and git hub!
+Test resolve conflict between local & git hub!
+
